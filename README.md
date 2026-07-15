@@ -529,5 +529,14 @@ PR welcome! Ideas:
 Apache-2.0 — Free to use, modify, distribute.
 
 ---
+# Demo
+
+🎥 **Watch the Plugin in Action**
+
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/fZDQTZH6RKk?si=5kX5JXs28x1v6Fax)
+
+▶️ **Demo Video:** https://youtu.be/fZDQTZH6RKk?si=5kX5JXs28x1v6Fax
+
+---
 
 **Made by - Aachal & Rahul!**
