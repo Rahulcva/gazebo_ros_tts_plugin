@@ -531,11 +531,17 @@ Apache-2.0 — Free to use, modify, distribute.
 ---
 # Demo
 
-🎥 **Watch the Plugin in Action**
+<p align="center">
+  <a href="https://youtu.be/fZDQTZH6RKk?si=5kX5JXs28x1v6Fax">
+    <img src="https://img.youtube.com/vi/fZDQTZH6RKk/maxresdefault.jpg" width="900" alt="Gazebo ROS TTS Plugin Demo"/>
+  </a>
+</p>
 
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/fZDQTZH6RKk?si=5kX5JXs28x1v6Fax)
+<p align="center">
+  <b>🎥 Click the image above to watch the demo video.</b>
+</p>
 
-▶️ **Demo Video:** https://youtu.be/fZDQTZH6RKk?si=5kX5JXs28x1v6Fax
+---
 
 ---
 
