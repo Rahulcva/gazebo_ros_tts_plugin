@@ -337,14 +337,7 @@ This project is released under the **MIT License**.
 
 # Acknowledgements
 
-This project was developed to bridge an important gap in robot simulation by enabling speech output for ROS 2 robots in Gazebo. It aims to support researchers and developers working in Human-Robot Interaction (HRI), Vision-Language-Action (VLA) systems, embodied AI, and intelligent robotic applications.cd gazebo_ros_tts_plugin
-chmod +x scripts/install.sh
-./scripts/install.sh
-```
-
-Script automatically detect karega:
-- **ROS2 Humble** → Gazebo Harmonic plugin build hoga
-- **ROS1 Noetic** → Gazebo Classic plugin build hoga
+This project was developed to bridge an important gap in robot simulation by enabling speech output for ROS 2 robots in Gazebo. It aims to support researchers and developers working in Human-Robot Interaction (HRI), Vision-Language-Action (VLA) systems, embodied AI, and intelligent robotic applications.cd gazebo_ros_tts_plugin.
 
 ---
 
