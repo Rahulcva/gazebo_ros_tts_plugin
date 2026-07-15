@@ -530,4 +530,4 @@ Apache-2.0 — Free to use, modify, distribute.
 
 ---
 
-**Made with ❤️ — Kyunki koi aur nahi tha jo banata!**
+**Made by - Aachal & Rahul!**
